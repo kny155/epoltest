@@ -1,0 +1,26 @@
+.target:hover {
+    cursor: pointer;
+    user-select: none;
+}
+
+.triangle-up:after {
+    margin: 2px;
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-bottom: 8px solid #fff;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+}
+
+.triangle-down:after {
+    margin: 2px;
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-top: 8px solid #fff;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+}

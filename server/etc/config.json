@@ -1,0 +1,9 @@
+{
+    "apiPrefix": "http://localhost:5000",
+    "serverPort": "5000",
+    "db":{
+        "name": "epoltest",
+        "host": "localhost",
+        "port": 27017
+    }
+}
