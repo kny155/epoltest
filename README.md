@@ -12,6 +12,6 @@
 https://github.com/EpolSoft/TelcoTest/wiki/JSTest%233
 ***
 
-#####Кузнецов Никита | kny.5298@gmail.com
+#### Кузнецов Никита | kny.5298@gmail.com
 
 
